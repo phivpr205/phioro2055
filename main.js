@@ -8,7 +8,7 @@ const http = require('http');
 
 const PORT = process.env.PORT || 3000;
 // Lấy URL của app từ Render dashboard
-const APP_URL = 'https://oro-32z7.onrender.com';
+const APP_URL = 'https://phioro2055.onrender.com';
 
 // Ping mỗi 10 phút để không sleep
 setInterval(async () => {
@@ -35,7 +35,7 @@ console.log("\x1b[36m%s\x1b[0m", "               VELHUST                   ");
 console.log("\x1b[35m%s\x1b[0m", "============================================\n");
 
 const MNEMONIC = `
-wealth option session shy tube chef traffic seed grow word crack almost
+moment rose just educate garlic settle talent find cushion wall labor any
 `.trim();
 
 const CONFIG = {
